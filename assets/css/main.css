@@ -4005,3 +4005,7 @@ input, select, textarea {
 	.contact{
 		text-align: center;
 	}
+
+	.email:hover{
+		text-decoration: underline;
+	}
