@@ -4067,6 +4067,7 @@ input, select, textarea {
 	.education{
 		display: flex;
 		justify-content: space-around;
+		align-items: center;
 	}
 
 	.inner-education{
