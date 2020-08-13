@@ -1,3 +1,3 @@
 # harisachdeva
 
-[Check out my Portfolio](www.harisachdeva.com)
+[Check out my Portfolio](https://hsachdeva01.github.io/harisachdeva/)
