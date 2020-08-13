@@ -4058,3 +4058,19 @@ input, select, textarea {
 	.devicon-express-original-wordmark{
 		color: black;
 	}
+
+	.class-logo{
+		width: 150px;
+    height: auto;
+	}
+
+	.education{
+		display: flex;
+		justify-content: space-around;
+	}
+
+	.inner-education{
+		display: flex;
+    flex-direction: column;
+    align-items: center;
+	}
