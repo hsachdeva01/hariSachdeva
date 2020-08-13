@@ -4063,6 +4063,11 @@ input, select, textarea {
 		width: 150px;
     height: auto;
 	}
+	.class-logo-aa{
+		width: 150px;
+		height: auto;
+		border-radius: 50%;
+	}
 
 	.education{
 		display: flex;
